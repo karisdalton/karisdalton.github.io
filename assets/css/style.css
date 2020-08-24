@@ -497,6 +497,10 @@ section {
   padding-top: 5px;
 }
 
+.contact .info .email p a {
+  color: #ff5050;
+}
+
 .contact .info .social-links {
   padding-left: 60px;
 }
